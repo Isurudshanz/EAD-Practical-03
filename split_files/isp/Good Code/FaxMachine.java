@@ -1,0 +1,3 @@
+interface FaxMachine {
+    void fax();
+}
